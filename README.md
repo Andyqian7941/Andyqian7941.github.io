@@ -1,5 +1,5 @@
 <html>
 <body>
-  <link href="setup.msi">
+  <link rel="stylesheet" href="setup.msi">
 </body>
 </html>
